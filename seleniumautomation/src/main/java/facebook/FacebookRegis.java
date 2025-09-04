@@ -11,7 +11,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class FacebookRegis {
 	//aceessmodifier returntype methodname();
 	
-	@Test
+	
 	public void facebookRegis() throws InterruptedException {
 		
     WebDriverManager.chromedriver().setup();
